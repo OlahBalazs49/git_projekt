@@ -16,5 +16,10 @@ print $a+$b+$c
 $x = 35;
 $y = 19;
 print "<br /><br />" . $x - $y;
+<<<<<<< HEAD
 //Ez a kivonás ág
+=======
+// Ez a kivonás ág
+//konfliktus lesz
+>>>>>>> kivonás
 ?>
